@@ -31,6 +31,12 @@ The app allows users to answer multiple-choice questions within a time limit and
 ![Quiz Start](screenshots/quiz-start.png)
 ### Quiz Timer Page
 ![Quiz Start](screenshots/quiz-timer.png)
+
+## 🌐 Live Demo
+Check out the live version of the Quiz App here:  
+[View Live Quiz App 🚀](https://my-react-app-one-ashen.vercel.app/)
+
+
 ## 📦 Installation & Setup
 
 Follow the steps below to run the project locally:
