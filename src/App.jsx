@@ -35,16 +35,8 @@ export default function App() {
 
   return (
  
-
-
    <div className="min-h-screen bg-gray-100 flex items-center justify-center p-4">
       <div className="max-w-md w-full">
-        <div><strong>STUDENT DETAILS</strong>
-    <p><strong>NAME:</strong>SUARA LATEEFAT ESTHER</p>
-    <p><strong>DEPARTMENT:</strong>FRONTEND DEVELOPMENT</p>
-    <p><strong>MATRIC N0:</strong>JAD/TA/25A/FD/001</p>
-    <p><strong>FINAL PROJECT</strong></p>
-</div> 
 
         <h1 className="text-3xl font-bold text-center mb-6">          Quiz App
         </h1>
